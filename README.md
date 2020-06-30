@@ -16,14 +16,14 @@ https://github.com/HousePricesPredictionTeam/BIT_HousePricesPredict
 
   包含了数据分析和可视化、数据预处理、特征工程，并将其他同学的模型构建、训练和预测汇总
 
-- XGBoost：
+- XGBoost-李生椰：
 
   使用XGBoost方法预测
 
-- 随机树：
+- 随机树-许达：
 
   使用随机树方法预测
 
-- 贝叶斯：
+- 贝叶斯-李思远：
 
   使用贝叶斯方法预测
