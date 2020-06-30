@@ -20,9 +20,9 @@ https://github.com/HousePricesPredictionTeam/BIT_HousePricesPredict
 
   使用XGBoost方法预测
 
-- 随机树-许达：
+- 随机森林-许达：
 
-  使用随机树方法预测
+  使用随机森林方法预测
 
 - 贝叶斯-李思远：
 
